@@ -1,0 +1,6 @@
+﻿  cs1.cpp
+c:\users\sabax\desktop\coding\c+-\advanced\cs1\cs1\cs1.cpp(169): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sabax\desktop\coding\c+-\advanced\cs1\cs1\cs1.cpp(185): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::streamsize'
+  c:\users\sabax\desktop\coding\c+-\advanced\cs1\cs1\cs1.cpp(185): note: consider using '%lld' in the format string
+  c:\users\sabax\desktop\coding\c+-\advanced\cs1\cs1\cs1.cpp(185): note: consider using '%I64d' in the format string
+  cs1.vcxproj -> C:\Users\sabax\Desktop\coding\C+-\advanced\cs1\Debug\cs1.exe

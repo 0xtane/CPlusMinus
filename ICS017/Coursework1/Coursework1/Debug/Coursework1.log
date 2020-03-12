@@ -1,0 +1,17 @@
+﻿  Coursework1.cpp
+c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(370): warning C4101: 'lastItem': unreferenced local variable
+c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(616): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::streamsize'
+  c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(616): note: consider using '%lld' in the format string
+  c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(616): note: consider using '%I64d' in the format string
+c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(808): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::streamsize'
+  c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(808): note: consider using '%lld' in the format string
+  c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(808): note: consider using '%I64d' in the format string
+c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(854): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::streamsize'
+  c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(854): note: consider using '%lld' in the format string
+  c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(854): note: consider using '%I64d' in the format string
+c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(47): warning C4715: 'PrintDataStructure': not all control paths return a value
+c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(72): warning C4715: 'ItemsInDataStructure': not all control paths return a value
+c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(193): warning C4715: 'CheckCode': not all control paths return a value
+c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(216): warning C4715: 'CheckDateTime': not all control paths return a value
+c:\users\sabax\desktop\coding\c+-\ics017\coursework1\coursework1\coursework1.cpp(458): warning C4715: 'RemoveItem': not all control paths return a value
+  Coursework1.vcxproj -> C:\Users\sabax\Desktop\coding\C+-\ICS017\Coursework1\Debug\Coursework1.exe
